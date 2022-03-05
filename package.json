@@ -3,7 +3,10 @@
   "type": "module",
   "version": "1.5.0",
   "description": "Contains strings literals for the keyboard event keys",
-  "main": "index.ts",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
   "scripts": {
     "build" : "tsc"
   },
